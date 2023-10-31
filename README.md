@@ -1,4 +1,4 @@
-# Axios Network Error MSW V.2
+# The "eventTargets" argument... Error MSW V.2
 
 ## ✨ Usage
 
